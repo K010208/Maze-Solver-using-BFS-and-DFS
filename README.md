@@ -10,9 +10,6 @@ Given a 2D maze grid (0 = path, 1 = wall), the program finds a path from the top
 - Prints the maze with the solution path marked with `*`
 - Easily extendable for GUI or other algorithms
 
-## Usage
 
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/Maze-Solver.git
-cd Maze-Solver
+
+
